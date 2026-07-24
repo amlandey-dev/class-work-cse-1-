@@ -10,5 +10,4 @@ void main (){
 }
 
 
-
 //Question--- Write a 'c' program to swap two numbers without using 3rd variable.
